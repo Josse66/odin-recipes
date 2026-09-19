@@ -8,7 +8,7 @@ Sitio de recetas simple,  su propósito es comenzar a practicar HTML puro, dirig
 - Listas ordenadas y desordenadas
 - Buenas prácticas de commits en Git (asunto + cuerpo)
 ## Demo
-[Link a GitHub Pages una vez publicado]
+https://josse66.github.io/odin-recipes
 ## Créditos de imágenes
 - Sopa: Foto de Kampus Production en Pexels
 - Pay de limón: Foto de Christina Nicole en Pexels
